@@ -22,69 +22,69 @@ Write a program which gets two numbers from the user and perform the desired ari
 
 Output the following (\*) pattern:
 
-  \*
-  \*\*
-  \*\*\*
-  \*\*\*\*
-  \*\*\*\*\*
-  \*\*\*\*\*\*
-  \*\*\*\*\*\*\*
-  \*\*\*\*\*\*\*\*
-  \*\*\*\*\*\*\*\*\*
+  \*\
+  \*\*\
+  \*\*\*\
+  \*\*\*\*\
+  \*\*\*\*\*\
+  \*\*\*\*\*\*\
+  \*\*\*\*\*\*\*\
+  \*\*\*\*\*\*\*\*\
+  \*\*\*\*\*\*\*\*\*\
   \*\*\*\*\*\*\*\*\*\*
 
 # taskFive(b)
 
 Output the following (\*) pattern:
 
-  \*\*\*\*\*\*\*\*\*\*
-  \*\*\*\*\*\*\*\*\*
-  \*\*\*\*\*\*\*\*
-  \*\*\*\*\*\*\*
-  \*\*\*\*\*\*
-  \*\*\*\*\*
-  \*\*\*\*
-  \*\*\*
-  \*\*
+  \*\*\*\*\*\*\*\*\*\*\
+  \*\*\*\*\*\*\*\*\*\
+  \*\*\*\*\*\*\*\*\
+  \*\*\*\*\*\*\*\
+  \*\*\*\*\*\*\
+  \*\*\*\*\*\
+  \*\*\*\*\
+  \*\*\*\
+  \*\*\
   \*
 
 # taskFive(**c**)
 
 Output the following (\*) pattern:
 
-  \*\*\*\*\*\*\*\*\*\*
-  &nbsp;&nbsp;\*\*\*\*\*\*\*\*\*
-  &nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*\*\*\*
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*\*\*
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*\*
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*
+  \*\*\*\*\*\*\*\*\*\*\
+  &nbsp;&nbsp;\*\*\*\*\*\*\*\*\*\
+  &nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*\*\*\*\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*\*\*\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*\*\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*
 
 # taskFive(d)
 
 Output the following (\*) pattern:
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*\*
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*\*\*
-  &nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*\*\*\*
-  &nbsp;&nbsp;\*\*\*\*\*\*\*\*\*
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*\*\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*\*\*\
+  &nbsp;&nbsp;&nbsp;&nbsp;\*\*\*\*\*\*\*\*\
+  &nbsp;&nbsp;\*\*\*\*\*\*\*\*\*\
   \*\*\*\*\*\*\*\*\*\*
 
 # taskFive(e)
 
 Output the following (\*, 0) pattern:
 
-  \*\*\*\*\*\*\*\*\*\*\*
-  \*0\*0\*0\*0\*0\*
-  \*\*\*\*\*\*\*\*\*\*\*
-  \*0\*0\*0\*0\*0\*
+  \*\*\*\*\*\*\*\*\*\*\*\
+  \*0\*0\*0\*0\*0\*\
+  \*\*\*\*\*\*\*\*\*\*\*\
+  \*0\*0\*0\*0\*0\*\
   \*\*\*\*\*\*\*\*\*\*\*
 
